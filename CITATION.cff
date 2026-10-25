@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "If you use this data, please cite the paper and this dataset."
+type: dataset
+title: "Digital Payment Adoption Survey Data (China and India)"
+abstract: "Anonymized survey data (n = 88) for a study of factors influencing the adoption of digital payment systems among university students in China and India."
+authors:
+  - family-names: Singh
+    given-names: Kashish
+    orcid: "https://orcid.org/0009-0003-4553-6458"
+date-released: 2026-10-23
+license: CC-BY-4.0
+repository-code: "https://github.com/kashu15052004/digital-payment-adoption-survey-data"
+keywords:
+  - digital payments
+  - fintech
+  - technology acceptance
+  - survey data
+  - China
+  - India
+preferred-citation:
+  type: generic
+  title: "Factors influencing the adoption of digital payment systems among university students: A comparative study of China and India"
+  authors:
+    - family-names: Singh
+      given-names: Kashish
+      orcid: "https://orcid.org/0009-0003-4553-6458"
+  year: 2026
+  doi: "10.5281/zenodo.23400747"
+  url: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7630318"
+  notes: "Preprint"
