@@ -1,89 +1,89 @@
-Original row #,Date,Age range,Gender,Country,Field of study (as entered),Field group,Q1 Saves time vs cash,Q2 Improves money mgmt,Q3 More convenient,Q4 Easy to learn,Q5 Simple to navigate,Q6 Little effort per transaction,Usage frequency,Frequency score (1-5),Q7 Trust platforms,Q8 Peers influence me,Q9 Norm in my social circle,Q10 Data is protected,Q11 Intend to continue,Q12 Recommend to others,Q13 Confident errors resolved,Q14 Worry losing money,Q15 Worry fraud,Q16 Hesitate on large transactions,Q14 reversed,Q15 reversed,Q16 reversed,Usefulness_Score,EaseOfUse_Score,Trust_Score,SocialInfluence_Score,Intention_Score,Risk_Score,Same-batch flag (29/09 18:39-18:46),Identical to an earlier row
-9,2026-09-28,21–23,Female,China,Commerce,Business & Economics,3,4,3,4,2,3,Rarely,2,2,2,2,2,3,3,3,5,4,5,1,2,1,3.3333,3,2.3333,2,3,4.6667,No,No
-10,2026-09-28,24 and above,Male,China,Computer Science,Tech & Engineering,4,4,4,4,4,4,Daily,5,4,4,4,4,4,4,4,1,1,1,5,5,5,4,4,4,4,4,1,No,No
-11,2026-09-28,24 and above,Male,China,Finance,Business & Economics,3,3,3,3,3,3,Weekly,4,3,3,3,3,3,3,3,2,2,2,4,4,4,3,3,3,3,3,2,No,No
-12,2026-09-28,24 and above,Female,China,Medical,Medical & Health,5,5,5,5,5,5,Daily,5,5,5,5,5,5,5,5,1,1,1,5,5,5,5,5,5,5,5,1,No,No
-14,2026-09-28,21–23,Female,China,Arts,Arts & Humanities,1,1,1,1,1,1,Never,1,1,1,1,1,1,1,1,5,5,5,1,1,1,1,1,1,1,1,5,No,No
-16,2026-09-28,21–23,Female,China,Digital Science,Tech & Engineering,5,4,5,4,5,4,Weekly,4,5,4,4,5,4,5,4,3,2,3,3,4,3,4.6667,4.3333,4.6667,4,4.5,2.6667,No,No
-17,2026-09-28,21–23,Male,China,Business,Business & Economics,4,3,4,3,4,3,Monthly,3,3,4,3,4,4,4,4,3,2,3,3,4,3,3.6667,3.3333,3.6667,3.5,4,2.6667,No,No
-19,2026-09-28,24 and above,Female,China,Computer Science,Tech & Engineering,5,5,5,5,5,5,Daily,5,5,5,5,5,5,5,5,1,1,1,5,5,5,5,5,5,5,5,1,No,No
-20,2026-09-28,18–20,Male,China,Finance,Business & Economics,4,4,4,4,4,4,Weekly,4,4,4,4,4,4,4,4,4,2,2,2,4,4,4,4,4,4,4,2.6667,No,No
-21,2026-09-28,21–23,Female,China,Economics,Business & Economics,3,3,3,3,3,3,Monthly,3,3,3,3,3,3,3,3,2,2,2,4,4,4,3,3,3,3,3,2,No,No
-22,2026-09-28,24 and above,Female,China,Business,Business & Economics,4,4,4,4,4,4,Weekly,4,4,4,4,4,4,4,4,1,1,1,5,5,5,4,4,4,4,4,1,No,No
-23,2026-09-28,24 and above,Female,China,Computer science,Tech & Engineering,3,3,3,3,3,3,Monthly,3,3,3,3,3,3,3,3,2,2,2,4,4,4,3,3,3,3,3,2,No,No
-24,2026-09-28,24 and above,Male,China,Medical,Medical & Health,4,4,4,4,4,4,Weekly,4,4,4,4,4,4,4,4,2,2,2,4,4,4,4,4,4,4,4,2,No,No
-51,2026-09-29,18–20,Female,China,Computer Science,Tech & Engineering,3,4,3,5,3,2,Weekly,4,4,4,4,3,3,4,4,3,2,3,3,4,3,3.3333,3.3333,3.6667,4,3.5,2.6667,No,No
-52,2026-09-29,18–20,Female,China,Finance,Business & Economics,4,3,5,3,4,2,Weekly,4,4,5,3,5,5,4,4,3,2,1,3,4,5,4,3,4.3333,4,4.5,2,No,No
-53,2026-09-29,18–20,Male,China,Computer Science,Tech & Engineering,4,2,4,3,4,5,Daily,5,5,4,2,4,4,2,4,2,4,5,4,2,1,3.3333,4,4.3333,3,3,3.6667,No,No
-54,2026-09-29,18–20,Male,China,Business,Business & Economics,3,4,3,5,3,4,Daily,5,5,3,5,5,4,3,4,2,4,3,4,2,3,3.3333,4,4.6667,4,3.5,3,No,No
-55,2026-09-29,18–20,Female,China,Finance,Business & Economics,4,5,4,3,5,4,Monthly,3,5,2,3,5,4,3,4,4,1,3,2,5,3,4.3333,4,4.6667,2.5,3.5,2.6667,No,No
-56,2026-09-29,24 and above,Male,China,Computer Science,Tech & Engineering,5,3,2,5,4,3,Weekly,4,4,5,2,4,3,5,3,2,5,2,4,1,4,3.3333,4,3.6667,3.5,4,3,No,No
-58,2026-09-30,18–20,Male,China,Finance,Business & Economics,3,4,4,5,3,5,Weekly,4,4,3,5,5,4,4,3,4,3,5,2,3,1,3.6667,4.3333,4,4,4,4,No,No
-59,2026-09-30,18–20,Male,China,Computer Science,Tech & Engineering,4,5,5,5,4,5,Daily,5,4,5,4,5,5,4,4,3,2,2,3,4,4,4.6667,4.6667,4.3333,4.5,4.5,2.3333,No,No
-60,2026-09-30,18–20,Female,China,Finance,Business & Economics,4,5,5,5,4,4,Daily,5,4,4,5,5,5,4,4,2,3,1,4,3,5,4.6667,4.3333,4.3333,4.5,4.5,2,No,No
-61,2026-09-30,24 and above,Female,China,Computer Science,Tech & Engineering,4,5,4,4,5,5,Daily,5,4,4,3,4,4,5,5,2,2,1,4,4,5,4.3333,4.6667,4.3333,3.5,4.5,1.6667,No,No
-62,2026-09-30,18–20,Female,China,Management,Business & Economics,5,3,4,4,5,5,Daily,5,4,4,4,5,3,4,4,1,1,2,5,5,4,4,4.6667,4.3333,4,3.5,1.3333,No,No
-64,2026-09-30,21–23,Female,China,Business,Business & Economics,4,3,4,4,5,5,Monthly,3,3,4,3,5,3,4,4,3,2,3,3,4,3,3.6667,4.6667,4,3.5,3.5,2.6667,No,No
-65,2026-09-30,18–20,Male,China,Technology,Tech & Engineering,4,5,4,4,5,5,Weekly,4,4,5,4,5,4,4,4,3,2,2,3,4,4,4.3333,4.6667,4.3333,4.5,4,2.3333,No,No
-66,2026-09-30,18–20,Female,China,Business,Business & Economics,4,4,5,4,3,4,Weekly,4,3,4,4,5,4,5,5,3,2,3,3,4,3,4.3333,3.6667,4.3333,4,4.5,2.6667,No,No
-67,2026-09-30,18–20,Female,China,Computer Science,Tech & Engineering,5,4,4,5,4,4,Daily,5,5,5,4,4,4,5,4,3,2,1,3,4,5,4.3333,4.3333,4.3333,4.5,4.5,2,No,No
-68,2026-09-30,18–20,Male,China,Technology,Tech & Engineering,4,4,5,4,3,4,Weekly,4,4,4,3,2,4,5,4,2,3,2,4,3,4,4.3333,3.6667,3.3333,3.5,4.5,2.3333,No,No
-70,2026-09-30,21–23,Not stated,China,Finance,Business & Economics,4,4,3,4,5,5,Weekly,4,4,3,3,5,5,5,4,2,3,2,4,3,4,3.6667,4.6667,4.3333,3,5,2.3333,No,No
-71,2026-09-30,24 and above,Female,China,Business,Business & Economics,3,4,5,4,3,4,Monthly,3,5,4,3,4,4,4,4,3,2,1,3,4,5,4,3.6667,4.3333,3.5,4,2,No,No
-72,2026-09-30,21–23,Female,China,Finance,Business & Economics,4,4,3,4,5,5,Daily,5,3,4,3,4,5,5,4,2,3,2,4,3,4,3.6667,4.6667,3.6667,3.5,5,2.3333,No,No
-73,2026-09-30,18–20,Not stated,China,Finance,Business & Economics,3,4,4,5,5,4,Daily,5,4,4,3,4,5,5,4,3,3,2,3,3,4,3.6667,4.6667,4,3.5,5,2.6667,No,No
-74,2026-09-30,18–20,Female,China,Technology,Tech & Engineering,4,4,5,4,3,5,Daily,5,4,5,5,4,4,5,5,3,2,2,3,4,4,4.3333,4,4.3333,5,4.5,2.3333,No,No
-75,2026-09-30,18–20,Female,China,Computer Science,Tech & Engineering,3,4,4,5,5,4,Daily,5,4,4,3,3,4,4,5,3,3,2,3,3,4,3.6667,4.6667,4,3.5,4,2.6667,No,No
-77,2026-09-30,21–23,Male,China,Computer Science,Tech & Engineering,3,4,4,3,4,4,Daily,5,4,4,5,3,5,5,4,3,3,2,3,3,4,3.6667,3.6667,3.6667,4.5,5,2.6667,No,No
-78,2026-09-30,18–20,Female,China,Finance,Business & Economics,4,4,5,4,3,4,Daily,5,5,4,4,5,4,3,3,2,3,2,4,3,4,4.3333,3.6667,4.3333,4,3.5,2.3333,No,No
-80,2026-09-30,18–20,Female,China,Finance,Business & Economics,4,5,4,4,3,4,Daily,5,5,4,5,4,4,5,5,3,2,2,3,4,4,4.3333,3.6667,4.6667,4.5,4.5,2.3333,No,No
-81,2026-09-30,21–23,Female,China,Management,Business & Economics,3,4,5,5,4,4,Daily,5,4,4,5,4,4,4,4,3,2,2,3,4,4,4,4.3333,4,4.5,4,2.3333,No,No
-82,2026-09-30,21–23,Prefer not to say,China,Business,Business & Economics,4,3,4,5,5,4,Never,1,3,4,4,5,4,4,5,3,2,3,3,4,3,3.6667,4.6667,4.3333,4,4,2.6667,No,No
-83,2026-09-30,21–23,Female,China,computer science,Tech & Engineering,4,4,5,4,5,5,Daily,5,3,4,4,4,5,5,4,3,2,1,3,4,5,4.3333,4.6667,3.6667,4,5,2,No,No
-84,2026-09-30,21–23,Male,China,Technology,Tech & Engineering,3,4,5,5,4,3,Daily,5,5,5,4,4,3,4,5,3,3,2,3,3,4,4,4,4.6667,4.5,3.5,2.6667,No,No
-85,2026-09-30,18–20,Male,China,Finance,Business & Economics,4,4,5,4,5,5,Weekly,4,4,5,5,4,4,3,4,3,2,3,3,4,3,4.3333,4.6667,4,5,3.5,2.6667,No,No
-86,2026-09-30,18–20,Female,China,Computer Science,Tech & Engineering,4,4,5,5,4,4,Weekly,4,3,4,4,5,4,4,5,2,3,2,4,3,4,4.3333,4.3333,4.3333,4,4,2.3333,No,No
-87,2026-09-30,18–20,Male,China,Management,Business & Economics,4,4,5,5,4,4,Daily,5,3,4,4,5,5,4,4,3,2,2,3,4,4,4.3333,4.3333,4,4,4.5,2.3333,No,No
-88,2026-09-30,18–20,Female,China,Finance,Business & Economics,4,4,5,5,4,4,Daily,5,4,4,5,5,4,4,4,3,3,2,3,3,4,4.3333,4.3333,4.3333,4.5,4,2.6667,No,No
-90,2026-09-30,21–23,Female,China,Finance,Business & Economics,4,3,4,5,3,4,Monthly,3,4,3,3,3,4,5,3,3,2,2,3,4,4,3.6667,4,3.3333,3,4.5,2.3333,No,No
-92,2026-09-30,18–20,Female,China,Finance,Business & Economics,3,4,3,4,3,4,Monthly,3,4,3,5,4,3,5,5,3,3,4,3,3,2,3.3333,3.6667,4.3333,4,4,3.3333,No,No
-93,2026-09-30,21–23,Female,China,Technology,Tech & Engineering,4,4,4,5,5,5,Daily,5,4,4,4,5,5,5,4,1,2,1,5,4,5,4,5,4.3333,4,5,1.3333,No,No
-94,2026-09-30,18–20,Female,China,Business,Business & Economics,3,5,4,3,4,5,Weekly,4,5,5,4,4,4,4,5,2,2,1,4,4,5,4,4,4.6667,4.5,4,1.6667,No,No
-95,2026-09-30,21–23,Female,China,Finance,Business & Economics,4,3,3,4,3,4,Daily,5,5,5,4,5,4,4,5,3,2,2,3,4,4,3.3333,3.6667,5,4.5,4,2.3333,No,No
-96,2026-09-30,18–20,Male,China,Management,Business & Economics,3,4,5,5,4,3,Daily,5,5,4,5,5,4,5,4,3,2,2,3,4,4,4,4,4.6667,4.5,4.5,2.3333,No,No
-97,2026-09-30,18–20,Female,China,Computer Science,Tech & Engineering,4,4,5,5,3,3,Daily,5,5,4,4,5,4,4,5,2,2,3,4,4,3,4.3333,3.6667,5,4,4,2.3333,No,No
-98,2026-09-30,18–20,Female,China,Business,Business & Economics,4,4,5,5,4,4,Daily,5,3,4,4,5,5,4,3,2,2,1,4,4,5,4.3333,4.3333,3.6667,4,4.5,1.6667,No,No
-5,2026-09-28,21–23,Male,India,Chemical,Tech & Engineering,5,5,5,5,5,5,Daily,5,5,5,5,3,5,5,5,4,5,2,2,1,4,5,5,4.3333,5,5,3.6667,No,No
-6,2026-09-28,21–23,Male,India,Chemical,Tech & Engineering,5,5,5,5,5,5,Daily,5,5,5,5,5,5,5,4,1,3,5,5,3,1,5,5,4.6667,5,5,3,No,No
-7,2026-09-28,24 and above,Female,India,BA,Arts & Humanities,3,4,5,5,5,4,Daily,5,3,5,4,1,3,4,3,2,1,2,4,5,4,4,4.6667,2.3333,4.5,3.5,1.6667,No,No
-8,2026-09-28,21–23,Female,India,CA intermediate,Business & Economics,4,4,4,4,4,2,Weekly,4,3,3,4,3,4,5,3,2,3,4,4,3,2,4,3.3333,3,3.5,4.5,3,No,No
-15,2026-09-28,21–23,Female,India,B.tech computer science and en,Tech & Engineering,5,5,5,5,5,5,Daily,5,5,5,5,3,5,5,5,5,5,5,1,1,1,5,5,4.3333,5,5,5,No,No
-18,2026-09-28,21–23,Male,India,Computer science,Tech & Engineering,5,3,4,3,3,4,Daily,5,4,4,4,3,3,3,5,3,4,2,3,2,4,4,3.3333,4,4,3,3,No,No
-25,2026-09-28,24 and above,Female,India,Fashion designer,Arts & Humanities,4,3,3,4,4,4,Monthly,3,4,4,3,3,4,2,3,4,5,3,2,1,3,3.3333,4,3.3333,3.5,3,4,No,No
-26,2026-09-28,24 and above,Female,India,Life Science,Science,5,5,5,5,5,5,Daily,5,5,5,5,5,5,5,5,2,1,1,4,5,5,5,5,5,5,5,1.3333,No,No
-27,2026-09-28,21–23,Female,India,Pursuing my Graduation with His,Other / unclear,5,2,4,5,4,4,Daily,5,5,4,3,5,5,4,4,3,4,1,3,2,5,3.6667,4.3333,4.6667,3.5,4.5,2.6667,No,No
-28,2026-09-29,18–20,Female,India,Btech,Tech & Engineering,5,5,5,5,5,1,Weekly,4,4,1,4,4,4,4,3,5,5,5,1,1,1,5,3.6667,3.6667,2.5,4,5,No,No
-29,2026-09-29,21–23,Male,India,IT,Tech & Engineering,5,5,5,5,5,5,Weekly,4,5,5,5,5,5,5,5,3,5,5,3,1,1,5,5,5,5,5,4.3333,Yes,No
-30,2026-09-29,18–20,Male,India,Chemical,Tech & Engineering,5,5,5,5,5,5,Daily,5,5,5,5,5,5,5,5,3,5,5,3,1,1,5,5,5,5,5,4.3333,Yes,No
-34,2026-09-29,24 and above,Male,India,Mechanical,Tech & Engineering,5,5,5,5,5,5,Daily,5,4,4,5,5,5,5,5,5,5,5,1,1,1,5,5,4.6667,4.5,5,5,Yes,No
-35,2026-09-29,21–23,Male,India,IT,Tech & Engineering,5,5,5,5,4,5,Daily,5,5,5,5,5,5,5,5,5,5,5,1,1,1,5,4.6667,5,5,5,5,Yes,No
-40,2026-09-29,18–20,Female,India,Finance,Business & Economics,5,5,5,5,5,5,Daily,5,5,5,5,5,5,5,5,1,1,1,5,5,5,5,5,5,5,5,1,No,No
-41,2026-09-29,18–20,Male,India,Economics,Business & Economics,4,4,4,4,4,4,Weekly,4,4,4,4,4,4,4,4,2,2,2,4,4,4,4,4,4,4,4,2,No,No
-42,2026-09-29,18–20,Female,India,Digital AI,Tech & Engineering,5,5,5,5,5,5,Daily,5,5,5,5,5,5,5,5,1,1,1,5,5,5,5,5,5,5,5,1,No,No
-43,2026-09-29,18–20,Male,India,Finance,Business & Economics,3,3,3,3,3,3,Monthly,3,3,3,3,3,3,3,3,1,1,1,5,5,5,3,3,3,3,3,1,No,No
-44,2026-09-29,18–20,Female,India,Business,Business & Economics,3,3,3,3,3,3,Weekly,4,3,3,3,3,3,3,3,2,2,2,4,4,4,3,3,3,3,3,2,No,No
-45,2026-09-29,18–20,Female,India,Finance,Business & Economics,3,4,3,4,3,4,Weekly,4,4,3,4,3,4,3,4,2,1,2,4,5,4,3.3333,3.6667,3.6667,3.5,3.5,1.6667,No,No
-46,2026-09-29,18–20,Male,India,Business,Business & Economics,5,5,5,5,5,5,Daily,5,5,5,5,5,5,5,5,1,1,1,5,5,5,5,5,5,5,5,1,No,No
-47,2026-09-29,18–20,Female,India,Finance,Business & Economics,5,4,5,4,5,4,Daily,5,4,5,4,5,4,5,4,2,1,2,4,5,4,4.6667,4.3333,4.3333,4.5,4.5,1.6667,No,No
-48,2026-09-29,18–20,Female,India,Information Technology,Tech & Engineering,5,5,5,5,5,5,Daily,5,5,5,5,5,5,5,5,1,1,1,5,5,5,5,5,5,5,5,1,No,No
-49,2026-09-29,18–20,Female,India,Computer Science,Tech & Engineering,4,4,4,4,4,4,Daily,5,5,5,5,5,5,5,5,2,1,2,4,5,4,4,4,5,5,5,1.6667,No,No
-50,2026-09-29,21–23,Male,India,ENGINEERING,Tech & Engineering,5,1,5,5,5,5,Daily,5,5,5,5,3,5,4,5,2,5,5,4,1,1,3.6667,5,4.3333,5,4.5,4,No,No
-63,2026-09-30,18–20,Female,India,Technology,Tech & Engineering,4,3,4,2,5,4,Monthly,3,4,3,3,4,5,5,3,3,2,1,3,4,5,3.6667,3.6667,3.6667,3,5,2,No,No
-69,2026-09-30,18–20,Female,India,Technology,Tech & Engineering,2,1,2,1,1,2,Rarely,2,2,2,1,1,2,1,2,4,5,5,2,1,1,1.6667,1.3333,1.6667,1.5,1.5,4.6667,No,No
-76,2026-09-30,21–23,Female,India,Management,Business & Economics,3,4,4,5,5,5,Weekly,4,4,4,4,3,5,5,3,2,3,2,4,3,4,3.6667,5,3.3333,4,5,2.3333,No,No
-79,2026-09-30,24 and above,Male,India,Business,Business & Economics,2,3,1,1,2,3,Rarely,2,2,1,1,2,2,2,1,4,5,5,2,1,1,2,2,1.6667,1,2,4.6667,No,No
-89,2026-09-30,21–23,Prefer not to say,India,Technology,Tech & Engineering,4,3,4,5,5,4,Weekly,4,4,4,5,5,4,4,5,3,2,2,3,4,4,3.6667,4.6667,4.6667,4.5,4,2.3333,No,No
-91,2026-09-30,21–23,Female,India,Business,Business & Economics,3,4,4,3,3,3,Rarely,2,3,2,3,4,3,3,3,4,3,4,2,3,2,3.6667,3,3.3333,2.5,3,3.6667,No,No
-100,2026-09-30,21–23,Female,India,Management,Business & Economics,4,4,5,5,4,4,Daily,5,3,4,4,5,5,4,4,3,2,2,3,4,4,4.3333,4.3333,4,4,4.5,2.3333,No,No
-13,2026-09-28,18–20,Male,Indonesia,BCA in AI,Tech & Engineering,2,2,2,2,2,2,Monthly,3,2,2,2,2,2,2,2,4,4,4,2,2,2,2,2,2,2,2,4,No,No
-1,2026-09-28,24 and above,Male,Not stated,Not stated,Not stated,4,5,4,5,3,4,Daily,5,5,3,4,5,5,4,5,5,5,4,1,1,2,4.3333,4,5,3.5,4.5,4.6667,No,No
+Original row #,Date,Age range,Gender,Country,Field group,Q1 Saves time vs cash,Q2 Improves money mgmt,Q3 More convenient,Q4 Easy to learn,Q5 Simple to navigate,Q6 Little effort per transaction,Usage frequency,Frequency score (1-5),Q7 Trust platforms,Q8 Peers influence me,Q9 Norm in my social circle,Q10 Data is protected,Q11 Intend to continue,Q12 Recommend to others,Q13 Confident errors resolved,Q14 Worry losing money,Q15 Worry fraud,Q16 Hesitate on large transactions,Q14 reversed,Q15 reversed,Q16 reversed,Usefulness_Score,EaseOfUse_Score,Trust_Score,SocialInfluence_Score,Intention_Score,Risk_Score,Same-batch flag,Identical to an earlier row
+9,2026-09-28,21-23,Female,China,Business & Economics,3,4,3,4,2,3,Rarely,2,2,2,2,2,3,3,3,5,4,5,1,2,1,3.3333,3.0,2.3333,2.0,3.0,4.6667,No,No
+10,2026-09-28,24 and above,Male,China,Tech & Engineering,4,4,4,4,4,4,Daily,5,4,4,4,4,4,4,4,1,1,1,5,5,5,4.0,4.0,4.0,4.0,4.0,1.0,No,No
+11,2026-09-28,24 and above,Male,China,Business & Economics,3,3,3,3,3,3,Weekly,4,3,3,3,3,3,3,3,2,2,2,4,4,4,3.0,3.0,3.0,3.0,3.0,2.0,No,No
+12,2026-09-28,24 and above,Female,China,Medical & Health,5,5,5,5,5,5,Daily,5,5,5,5,5,5,5,5,1,1,1,5,5,5,5.0,5.0,5.0,5.0,5.0,1.0,No,No
+14,2026-09-28,21-23,Female,China,Arts & Humanities,1,1,1,1,1,1,Never,1,1,1,1,1,1,1,1,5,5,5,1,1,1,1.0,1.0,1.0,1.0,1.0,5.0,No,No
+16,2026-09-28,21-23,Female,China,Tech & Engineering,5,4,5,4,5,4,Weekly,4,5,4,4,5,4,5,4,3,2,3,3,4,3,4.6667,4.3333,4.6667,4.0,4.5,2.6667,No,No
+17,2026-09-28,21-23,Male,China,Business & Economics,4,3,4,3,4,3,Monthly,3,3,4,3,4,4,4,4,3,2,3,3,4,3,3.6667,3.3333,3.6667,3.5,4.0,2.6667,No,No
+19,2026-09-28,24 and above,Female,China,Tech & Engineering,5,5,5,5,5,5,Daily,5,5,5,5,5,5,5,5,1,1,1,5,5,5,5.0,5.0,5.0,5.0,5.0,1.0,No,No
+20,2026-09-28,18-20,Male,China,Business & Economics,4,4,4,4,4,4,Weekly,4,4,4,4,4,4,4,4,4,2,2,2,4,4,4.0,4.0,4.0,4.0,4.0,2.6667,No,No
+21,2026-09-28,21-23,Female,China,Business & Economics,3,3,3,3,3,3,Monthly,3,3,3,3,3,3,3,3,2,2,2,4,4,4,3.0,3.0,3.0,3.0,3.0,2.0,No,No
+22,2026-09-28,24 and above,Female,China,Business & Economics,4,4,4,4,4,4,Weekly,4,4,4,4,4,4,4,4,1,1,1,5,5,5,4.0,4.0,4.0,4.0,4.0,1.0,No,No
+23,2026-09-28,24 and above,Female,China,Tech & Engineering,3,3,3,3,3,3,Monthly,3,3,3,3,3,3,3,3,2,2,2,4,4,4,3.0,3.0,3.0,3.0,3.0,2.0,No,No
+24,2026-09-28,24 and above,Male,China,Medical & Health,4,4,4,4,4,4,Weekly,4,4,4,4,4,4,4,4,2,2,2,4,4,4,4.0,4.0,4.0,4.0,4.0,2.0,No,No
+51,2026-09-29,18-20,Female,China,Tech & Engineering,3,4,3,5,3,2,Weekly,4,4,4,4,3,3,4,4,3,2,3,3,4,3,3.3333,3.3333,3.6667,4.0,3.5,2.6667,No,No
+52,2026-09-29,18-20,Female,China,Business & Economics,4,3,5,3,4,2,Weekly,4,4,5,3,5,5,4,4,3,2,1,3,4,5,4.0,3.0,4.3333,4.0,4.5,2.0,No,No
+53,2026-09-29,18-20,Male,China,Tech & Engineering,4,2,4,3,4,5,Daily,5,5,4,2,4,4,2,4,2,4,5,4,2,1,3.3333,4.0,4.3333,3.0,3.0,3.6667,No,No
+54,2026-09-29,18-20,Male,China,Business & Economics,3,4,3,5,3,4,Daily,5,5,3,5,5,4,3,4,2,4,3,4,2,3,3.3333,4.0,4.6667,4.0,3.5,3.0,No,No
+55,2026-09-29,18-20,Female,China,Business & Economics,4,5,4,3,5,4,Monthly,3,5,2,3,5,4,3,4,4,1,3,2,5,3,4.3333,4.0,4.6667,2.5,3.5,2.6667,No,No
+56,2026-09-29,24 and above,Male,China,Tech & Engineering,5,3,2,5,4,3,Weekly,4,4,5,2,4,3,5,3,2,5,2,4,1,4,3.3333,4.0,3.6667,3.5,4.0,3.0,No,No
+58,2026-09-30,18-20,Male,China,Business & Economics,3,4,4,5,3,5,Weekly,4,4,3,5,5,4,4,3,4,3,5,2,3,1,3.6667,4.3333,4.0,4.0,4.0,4.0,No,No
+59,2026-09-30,18-20,Male,China,Tech & Engineering,4,5,5,5,4,5,Daily,5,4,5,4,5,5,4,4,3,2,2,3,4,4,4.6667,4.6667,4.3333,4.5,4.5,2.3333,No,No
+60,2026-09-30,18-20,Female,China,Business & Economics,4,5,5,5,4,4,Daily,5,4,4,5,5,5,4,4,2,3,1,4,3,5,4.6667,4.3333,4.3333,4.5,4.5,2.0,No,No
+61,2026-09-30,24 and above,Female,China,Tech & Engineering,4,5,4,4,5,5,Daily,5,4,4,3,4,4,5,5,2,2,1,4,4,5,4.3333,4.6667,4.3333,3.5,4.5,1.6667,No,No
+62,2026-09-30,18-20,Female,China,Business & Economics,5,3,4,4,5,5,Daily,5,4,4,4,5,3,4,4,1,1,2,5,5,4,4.0,4.6667,4.3333,4.0,3.5,1.3333,No,No
+64,2026-09-30,21-23,Female,China,Business & Economics,4,3,4,4,5,5,Monthly,3,3,4,3,5,3,4,4,3,2,3,3,4,3,3.6667,4.6667,4.0,3.5,3.5,2.6667,No,No
+65,2026-09-30,18-20,Male,China,Tech & Engineering,4,5,4,4,5,5,Weekly,4,4,5,4,5,4,4,4,3,2,2,3,4,4,4.3333,4.6667,4.3333,4.5,4.0,2.3333,No,No
+66,2026-09-30,18-20,Female,China,Business & Economics,4,4,5,4,3,4,Weekly,4,3,4,4,5,4,5,5,3,2,3,3,4,3,4.3333,3.6667,4.3333,4.0,4.5,2.6667,No,No
+67,2026-09-30,18-20,Female,China,Tech & Engineering,5,4,4,5,4,4,Daily,5,5,5,4,4,4,5,4,3,2,1,3,4,5,4.3333,4.3333,4.3333,4.5,4.5,2.0,No,No
+68,2026-09-30,18-20,Male,China,Tech & Engineering,4,4,5,4,3,4,Weekly,4,4,4,3,2,4,5,4,2,3,2,4,3,4,4.3333,3.6667,3.3333,3.5,4.5,2.3333,No,No
+70,2026-09-30,21-23,Not stated,China,Business & Economics,4,4,3,4,5,5,Weekly,4,4,3,3,5,5,5,4,2,3,2,4,3,4,3.6667,4.6667,4.3333,3.0,5.0,2.3333,No,No
+71,2026-09-30,24 and above,Female,China,Business & Economics,3,4,5,4,3,4,Monthly,3,5,4,3,4,4,4,4,3,2,1,3,4,5,4.0,3.6667,4.3333,3.5,4.0,2.0,No,No
+72,2026-09-30,21-23,Female,China,Business & Economics,4,4,3,4,5,5,Daily,5,3,4,3,4,5,5,4,2,3,2,4,3,4,3.6667,4.6667,3.6667,3.5,5.0,2.3333,No,No
+73,2026-09-30,18-20,Not stated,China,Business & Economics,3,4,4,5,5,4,Daily,5,4,4,3,4,5,5,4,3,3,2,3,3,4,3.6667,4.6667,4.0,3.5,5.0,2.6667,No,No
+74,2026-09-30,18-20,Female,China,Tech & Engineering,4,4,5,4,3,5,Daily,5,4,5,5,4,4,5,5,3,2,2,3,4,4,4.3333,4.0,4.3333,5.0,4.5,2.3333,No,No
+75,2026-09-30,18-20,Female,China,Tech & Engineering,3,4,4,5,5,4,Daily,5,4,4,3,3,4,4,5,3,3,2,3,3,4,3.6667,4.6667,4.0,3.5,4.0,2.6667,No,No
+77,2026-09-30,21-23,Male,China,Tech & Engineering,3,4,4,3,4,4,Daily,5,4,4,5,3,5,5,4,3,3,2,3,3,4,3.6667,3.6667,3.6667,4.5,5.0,2.6667,No,No
+78,2026-09-30,18-20,Female,China,Business & Economics,4,4,5,4,3,4,Daily,5,5,4,4,5,4,3,3,2,3,2,4,3,4,4.3333,3.6667,4.3333,4.0,3.5,2.3333,No,No
+80,2026-09-30,18-20,Female,China,Business & Economics,4,5,4,4,3,4,Daily,5,5,4,5,4,4,5,5,3,2,2,3,4,4,4.3333,3.6667,4.6667,4.5,4.5,2.3333,No,No
+81,2026-09-30,21-23,Female,China,Business & Economics,3,4,5,5,4,4,Daily,5,4,4,5,4,4,4,4,3,2,2,3,4,4,4.0,4.3333,4.0,4.5,4.0,2.3333,No,No
+82,2026-09-30,21-23,Prefer not to say,China,Business & Economics,4,3,4,5,5,4,Never,1,3,4,4,5,4,4,5,3,2,3,3,4,3,3.6667,4.6667,4.3333,4.0,4.0,2.6667,No,No
+83,2026-09-30,21-23,Female,China,Tech & Engineering,4,4,5,4,5,5,Daily,5,3,4,4,4,5,5,4,3,2,1,3,4,5,4.3333,4.6667,3.6667,4.0,5.0,2.0,No,No
+84,2026-09-30,21-23,Male,China,Tech & Engineering,3,4,5,5,4,3,Daily,5,5,5,4,4,3,4,5,3,3,2,3,3,4,4.0,4.0,4.6667,4.5,3.5,2.6667,No,No
+85,2026-09-30,18-20,Male,China,Business & Economics,4,4,5,4,5,5,Weekly,4,4,5,5,4,4,3,4,3,2,3,3,4,3,4.3333,4.6667,4.0,5.0,3.5,2.6667,No,No
+86,2026-09-30,18-20,Female,China,Tech & Engineering,4,4,5,5,4,4,Weekly,4,3,4,4,5,4,4,5,2,3,2,4,3,4,4.3333,4.3333,4.3333,4.0,4.0,2.3333,No,No
+87,2026-09-30,18-20,Male,China,Business & Economics,4,4,5,5,4,4,Daily,5,3,4,4,5,5,4,4,3,2,2,3,4,4,4.3333,4.3333,4.0,4.0,4.5,2.3333,No,No
+88,2026-09-30,18-20,Female,China,Business & Economics,4,4,5,5,4,4,Daily,5,4,4,5,5,4,4,4,3,3,2,3,3,4,4.3333,4.3333,4.3333,4.5,4.0,2.6667,No,No
+90,2026-09-30,21-23,Female,China,Business & Economics,4,3,4,5,3,4,Monthly,3,4,3,3,3,4,5,3,3,2,2,3,4,4,3.6667,4.0,3.3333,3.0,4.5,2.3333,No,No
+92,2026-09-30,18-20,Female,China,Business & Economics,3,4,3,4,3,4,Monthly,3,4,3,5,4,3,5,5,3,3,4,3,3,2,3.3333,3.6667,4.3333,4.0,4.0,3.3333,No,No
+93,2026-09-30,21-23,Female,China,Tech & Engineering,4,4,4,5,5,5,Daily,5,4,4,4,5,5,5,4,1,2,1,5,4,5,4.0,5.0,4.3333,4.0,5.0,1.3333,No,No
+94,2026-09-30,18-20,Female,China,Business & Economics,3,5,4,3,4,5,Weekly,4,5,5,4,4,4,4,5,2,2,1,4,4,5,4.0,4.0,4.6667,4.5,4.0,1.6667,No,No
+95,2026-09-30,21-23,Female,China,Business & Economics,4,3,3,4,3,4,Daily,5,5,5,4,5,4,4,5,3,2,2,3,4,4,3.3333,3.6667,5.0,4.5,4.0,2.3333,No,No
+96,2026-09-30,18-20,Male,China,Business & Economics,3,4,5,5,4,3,Daily,5,5,4,5,5,4,5,4,3,2,2,3,4,4,4.0,4.0,4.6667,4.5,4.5,2.3333,No,No
+97,2026-09-30,18-20,Female,China,Tech & Engineering,4,4,5,5,3,3,Daily,5,5,4,4,5,4,4,5,2,2,3,4,4,3,4.3333,3.6667,5.0,4.0,4.0,2.3333,No,No
+98,2026-09-30,18-20,Female,China,Business & Economics,4,4,5,5,4,4,Daily,5,3,4,4,5,5,4,3,2,2,1,4,4,5,4.3333,4.3333,3.6667,4.0,4.5,1.6667,No,No
+5,2026-09-28,21-23,Male,India,Tech & Engineering,5,5,5,5,5,5,Daily,5,5,5,5,3,5,5,5,4,5,2,2,1,4,5.0,5.0,4.3333,5.0,5.0,3.6667,No,No
+6,2026-09-28,21-23,Male,India,Tech & Engineering,5,5,5,5,5,5,Daily,5,5,5,5,5,5,5,4,1,3,5,5,3,1,5.0,5.0,4.6667,5.0,5.0,3.0,No,No
+7,2026-09-28,24 and above,Female,India,Arts & Humanities,3,4,5,5,5,4,Daily,5,3,5,4,1,3,4,3,2,1,2,4,5,4,4.0,4.6667,2.3333,4.5,3.5,1.6667,No,No
+8,2026-09-28,21-23,Female,India,Business & Economics,4,4,4,4,4,2,Weekly,4,3,3,4,3,4,5,3,2,3,4,4,3,2,4.0,3.3333,3.0,3.5,4.5,3.0,No,No
+15,2026-09-28,21-23,Female,India,Tech & Engineering,5,5,5,5,5,5,Daily,5,5,5,5,3,5,5,5,5,5,5,1,1,1,5.0,5.0,4.3333,5.0,5.0,5.0,No,No
+18,2026-09-28,21-23,Male,India,Tech & Engineering,5,3,4,3,3,4,Daily,5,4,4,4,3,3,3,5,3,4,2,3,2,4,4.0,3.3333,4.0,4.0,3.0,3.0,No,No
+25,2026-09-28,24 and above,Female,India,Arts & Humanities,4,3,3,4,4,4,Monthly,3,4,4,3,3,4,2,3,4,5,3,2,1,3,3.3333,4.0,3.3333,3.5,3.0,4.0,No,No
+26,2026-09-28,24 and above,Female,India,Science,5,5,5,5,5,5,Daily,5,5,5,5,5,5,5,5,2,1,1,4,5,5,5.0,5.0,5.0,5.0,5.0,1.3333,No,No
+27,2026-09-28,21-23,Female,India,Other / unclear,5,2,4,5,4,4,Daily,5,5,4,3,5,5,4,4,3,4,1,3,2,5,3.6667,4.3333,4.6667,3.5,4.5,2.6667,No,No
+28,2026-09-29,18-20,Female,India,Tech & Engineering,5,5,5,5,5,1,Weekly,4,4,1,4,4,4,4,3,5,5,5,1,1,1,5.0,3.6667,3.6667,2.5,4.0,5.0,No,No
+29,2026-09-29,21-23,Male,India,Tech & Engineering,5,5,5,5,5,5,Weekly,4,5,5,5,5,5,5,5,3,5,5,3,1,1,5.0,5.0,5.0,5.0,5.0,4.3333,Yes,No
+30,2026-09-29,18-20,Male,India,Tech & Engineering,5,5,5,5,5,5,Daily,5,5,5,5,5,5,5,5,3,5,5,3,1,1,5.0,5.0,5.0,5.0,5.0,4.3333,Yes,No
+34,2026-09-29,24 and above,Male,India,Tech & Engineering,5,5,5,5,5,5,Daily,5,4,4,5,5,5,5,5,5,5,5,1,1,1,5.0,5.0,4.6667,4.5,5.0,5.0,Yes,No
+35,2026-09-29,21-23,Male,India,Tech & Engineering,5,5,5,5,4,5,Daily,5,5,5,5,5,5,5,5,5,5,5,1,1,1,5.0,4.6667,5.0,5.0,5.0,5.0,Yes,No
+40,2026-09-29,18-20,Female,India,Business & Economics,5,5,5,5,5,5,Daily,5,5,5,5,5,5,5,5,1,1,1,5,5,5,5.0,5.0,5.0,5.0,5.0,1.0,No,No
+41,2026-09-29,18-20,Male,India,Business & Economics,4,4,4,4,4,4,Weekly,4,4,4,4,4,4,4,4,2,2,2,4,4,4,4.0,4.0,4.0,4.0,4.0,2.0,No,No
+42,2026-09-29,18-20,Female,India,Tech & Engineering,5,5,5,5,5,5,Daily,5,5,5,5,5,5,5,5,1,1,1,5,5,5,5.0,5.0,5.0,5.0,5.0,1.0,No,No
+43,2026-09-29,18-20,Male,India,Business & Economics,3,3,3,3,3,3,Monthly,3,3,3,3,3,3,3,3,1,1,1,5,5,5,3.0,3.0,3.0,3.0,3.0,1.0,No,No
+44,2026-09-29,18-20,Female,India,Business & Economics,3,3,3,3,3,3,Weekly,4,3,3,3,3,3,3,3,2,2,2,4,4,4,3.0,3.0,3.0,3.0,3.0,2.0,No,No
+45,2026-09-29,18-20,Female,India,Business & Economics,3,4,3,4,3,4,Weekly,4,4,3,4,3,4,3,4,2,1,2,4,5,4,3.3333,3.6667,3.6667,3.5,3.5,1.6667,No,No
+46,2026-09-29,18-20,Male,India,Business & Economics,5,5,5,5,5,5,Daily,5,5,5,5,5,5,5,5,1,1,1,5,5,5,5.0,5.0,5.0,5.0,5.0,1.0,No,No
+47,2026-09-29,18-20,Female,India,Business & Economics,5,4,5,4,5,4,Daily,5,4,5,4,5,4,5,4,2,1,2,4,5,4,4.6667,4.3333,4.3333,4.5,4.5,1.6667,No,No
+48,2026-09-29,18-20,Female,India,Tech & Engineering,5,5,5,5,5,5,Daily,5,5,5,5,5,5,5,5,1,1,1,5,5,5,5.0,5.0,5.0,5.0,5.0,1.0,No,No
+49,2026-09-29,18-20,Female,India,Tech & Engineering,4,4,4,4,4,4,Daily,5,5,5,5,5,5,5,5,2,1,2,4,5,4,4.0,4.0,5.0,5.0,5.0,1.6667,No,No
+50,2026-09-29,21-23,Male,India,Tech & Engineering,5,1,5,5,5,5,Daily,5,5,5,5,3,5,4,5,2,5,5,4,1,1,3.6667,5.0,4.3333,5.0,4.5,4.0,No,No
+63,2026-09-30,18-20,Female,India,Tech & Engineering,4,3,4,2,5,4,Monthly,3,4,3,3,4,5,5,3,3,2,1,3,4,5,3.6667,3.6667,3.6667,3.0,5.0,2.0,No,No
+69,2026-09-30,18-20,Female,India,Tech & Engineering,2,1,2,1,1,2,Rarely,2,2,2,1,1,2,1,2,4,5,5,2,1,1,1.6667,1.3333,1.6667,1.5,1.5,4.6667,No,No
+76,2026-09-30,21-23,Female,India,Business & Economics,3,4,4,5,5,5,Weekly,4,4,4,4,3,5,5,3,2,3,2,4,3,4,3.6667,5.0,3.3333,4.0,5.0,2.3333,No,No
+79,2026-09-30,24 and above,Male,India,Business & Economics,2,3,1,1,2,3,Rarely,2,2,1,1,2,2,2,1,4,5,5,2,1,1,2.0,2.0,1.6667,1.0,2.0,4.6667,No,No
+89,2026-09-30,21-23,Prefer not to say,India,Tech & Engineering,4,3,4,5,5,4,Weekly,4,4,4,5,5,4,4,5,3,2,2,3,4,4,3.6667,4.6667,4.6667,4.5,4.0,2.3333,No,No
+91,2026-09-30,21-23,Female,India,Business & Economics,3,4,4,3,3,3,Rarely,2,3,2,3,4,3,3,3,4,3,4,2,3,2,3.6667,3.0,3.3333,2.5,3.0,3.6667,No,No
+100,2026-09-30,21-23,Female,India,Business & Economics,4,4,5,5,4,4,Daily,5,3,4,4,5,5,4,4,3,2,2,3,4,4,4.3333,4.3333,4.0,4.0,4.5,2.3333,No,No
+13,2026-09-28,18-20,Male,Indonesia,Tech & Engineering,2,2,2,2,2,2,Monthly,3,2,2,2,2,2,2,2,4,4,4,2,2,2,2.0,2.0,2.0,2.0,2.0,4.0,No,No
+1,2026-09-28,24 and above,Male,Not stated,Not stated,4,5,4,5,3,4,Daily,5,5,3,4,5,5,4,5,5,5,4,1,1,2,4.3333,4.0,5.0,3.5,4.5,4.6667,No,No
